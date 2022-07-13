@@ -1,4 +1,0 @@
-This is file created by cat
-var a =10;
-var b=20;
-var c=40;
